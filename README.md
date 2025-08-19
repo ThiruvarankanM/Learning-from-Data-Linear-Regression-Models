@@ -29,4 +29,3 @@ The assignment covers regression, robust loss functions, and data preprocessing.
 - **Max-Abs scaling** preserves sparsity for sparse signals.
 - **Standard scaling** optimizes Gaussian-distributed features.
 
-## Repository Structure
